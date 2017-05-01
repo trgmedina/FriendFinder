@@ -1,0 +1,24 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "App that finds friends for the user based off compatibility.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trgmedina/FriendFinder.git"
+  },
+  "author": "Theresa Medina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trgmedina/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/trgmedina/FriendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  }
+}

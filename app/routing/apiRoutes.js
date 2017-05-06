@@ -15,7 +15,7 @@ module.exports = function(app) {
 
 		console.log(newFriend.responses);
 
-		for (var i = 0; i< friends.length; i++) {
+		for (var i = 0; i < friends.length; i++) {
 			totalDifference = 0; 
 
 			for (var x = 0; x < newFriendScores.length; x++) {

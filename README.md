@@ -39,7 +39,7 @@ npm install body-parser
 
 ## Deployment
 
-Deployed using Heroku.
+Deployed using the terminal. Can be deployed in Heroku.
 
 ## Built With
 
